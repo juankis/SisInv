@@ -14,7 +14,7 @@ package ventanas;
 import java.util.ArrayList;
 
 /**
- *
+ * una prueba
  * @author juanki
  */
 public class nueva_orden_produccion extends javax.swing.JDialog {
